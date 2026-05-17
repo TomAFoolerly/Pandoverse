@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "tomafoolerly.github.io/Pandoverse",
+    baseUrl: "tomafoolerly.github.io/Pandoverse", 
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
